@@ -1,0 +1,28 @@
+body{
+    background-color:lightyellow;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    color:blue;
+    font-style:italic;
+}
+p{
+    text-align:center;
+    font-size:30px;
+    color:brown;
+}
+hr{
+    width:70%;
+    margin-bottom:35px;
+}
+a{
+    background-color:red;
+    padding:15px 35px 15px 35px;
+    color:white;
+}
+h3{
+    text-align:center;
+    font-size:40px;
+    color:blue;
+}
